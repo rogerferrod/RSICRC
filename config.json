@@ -1,0 +1,18 @@
+{
+  "backbone": "RN50",
+  "d_model": 2048,
+  "max_len": 41,
+  "encoder_layers": 3,
+  "decoder_layers": 1,
+  "num_heads": 8,
+  "h_dim": 512,
+  "a_dim": 2048,
+  "dropout": 0.1,
+  "learnable": false,
+  "fine_tune": true,
+  "tie_embeddings": true,
+  "prenorm": false,
+  "s-transformers": "sentence-transformers/msmarco-distilbert-cos-v5",
+  "s-threshold": 1.0,
+  "fna": true
+}
