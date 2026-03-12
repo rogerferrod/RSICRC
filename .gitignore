@@ -1,8 +1,0 @@
-/.idea/*
-/input/*
-/output/*
-/resources/*
-kge/
-*.pyc%
-.DS_Store
-**/__pycache__/
